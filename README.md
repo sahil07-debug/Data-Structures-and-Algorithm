@@ -36,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
