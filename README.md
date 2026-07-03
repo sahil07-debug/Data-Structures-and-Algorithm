@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
+| [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
