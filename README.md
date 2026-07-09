@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
@@ -89,8 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
