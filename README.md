@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 ## Math
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
