@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
 | ------- |
