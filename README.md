@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 ## Simulation
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
