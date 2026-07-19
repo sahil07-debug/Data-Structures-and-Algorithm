@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
