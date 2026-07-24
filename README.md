@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
