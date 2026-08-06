@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
