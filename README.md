@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
