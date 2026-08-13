@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## Design
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
@@ -211,11 +214,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
