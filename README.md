@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0875-koko-eating-bananas) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0860-lemonade-change) |
