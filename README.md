@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
