@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
