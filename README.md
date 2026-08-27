@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0796-rotate-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
