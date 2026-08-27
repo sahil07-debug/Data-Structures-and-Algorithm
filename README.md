@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0904-fruit-into-baskets) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -325,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
