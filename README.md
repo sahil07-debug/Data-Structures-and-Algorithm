@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
+| [0237-delete-node-in-a-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
