@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
