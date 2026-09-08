@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -377,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
