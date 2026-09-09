@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1922-count-good-numbers) |
 ## String
