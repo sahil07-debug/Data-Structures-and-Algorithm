@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
