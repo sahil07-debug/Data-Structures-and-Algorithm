@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
