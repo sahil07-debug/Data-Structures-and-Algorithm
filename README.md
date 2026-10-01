@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
@@ -479,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0148-sort-list) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
