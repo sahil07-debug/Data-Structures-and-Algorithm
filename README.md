@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1922-count-good-numbers) |
