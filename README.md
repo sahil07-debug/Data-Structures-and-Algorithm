@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0735-asteroid-collision) |
+| [1688-count-of-matches-in-tournament](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
