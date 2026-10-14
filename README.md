@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/1903-largest-odd-number-in-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sahil07-debug/Data-Structures-and-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
